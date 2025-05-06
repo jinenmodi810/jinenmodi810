@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jinenmodi810&label=Profile%20views&color=0e75b6&style=flat" alt="jinenmodi810" /> </p>
 
-- 🔭 I’m currently working on **SEC Financial Reports Automation & Crypto Sentiment Forecasting Pipelines**
+- 🔭 I’m currently working on **Financial Reports Automation & Crypto Sentiment Forecasting Pipelines**
 
 - 🌱 Currently expanding skills in **Snowflake Native Apps, Databricks, and Streaming Data Architectures (Kafka, Flink)**
 
