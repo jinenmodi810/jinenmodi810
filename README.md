@@ -49,7 +49,7 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
     </a>
     <a href="https://www.snowflake.com/" target="_blank">
-        <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/snowflake.svg" alt="Snowflake" width="40" height="40" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/f/ff/Snowflake_Logo.svg" alt="Snowflake" width="40" height="40" />
     </a>
     <a href="https://aws.amazon.com/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40" />
