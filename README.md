@@ -6,7 +6,7 @@
 </p>
 
  **Current Projects:**
-- SEC Financial Reports Automation & Analytics Platform
+- Financial Reports Automation & Analytics Platform
 - Crypto Sentiment Forecasting Pipeline (Web Scraping + ML + Streamlit)
 - Snowflake Native Apps & Streaming Data Pipelines using Kafka + Airflow
 
