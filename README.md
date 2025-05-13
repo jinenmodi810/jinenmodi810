@@ -23,9 +23,7 @@
 - AI-Enhanced Data Workflows (SBERT, RAG, ML Pipelines)
 
  **Recent Highlights:**
-- Completed IBM ETL & Data Pipelines with Airflow and Kafka (Coursera)
 - Built end-to-end ETL pipeline for SEC filings (Python, Selenium, Snowflake)
-- Speaker at Data Streaming World Tour (Kafka + AI Integrations)
 - Achieved Snowflake Northstar Data Engineer Badge (Chicago Workshop)
 
  **How to reach me:**  
