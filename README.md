@@ -55,13 +55,10 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40" />
     </a>
     <a href="https://databricks.com/" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Databricks_Logo.png" width="40" height="40" />
+        <img src="https://www.advsyscon.com/wp-content/uploads/logo-databricks-inner.svg" width="40" height="40" />
     </a>
     <a href="https://airflow.apache.org/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" alt="Airflow" width="40" height="40" />
-    </a>
-    <a href="https://kafka.apache.org/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg" alt="Kafka" width="40" height="40" />
     </a>
     <a href="https://pandas.pydata.org/" target="_blank">
         <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/pandas.svg" alt="Pandas" width="40" height="40" />
